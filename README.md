@@ -5,7 +5,7 @@
 - 📫 How to reach me ... anwaarqau@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ⭐ I am looking for a full time postdoc position in a group of inverse problems and/or fractional calculus
+- ⭐ I am looking for a postdoc position in a group of inverse problems and/or fractional calculus
 <!---
 Anwaar82/Anwaar82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
